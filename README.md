@@ -2,9 +2,9 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning how to teach AI to elementary students
 - 💞️ I’m looking to collaborate on OC Pace Setters
-- 📫 How to reach me, you'll know
-- 😄 Pronouns: Dont care
-- ⚡ Fun fact: I am a programming teacher
+- 📫 How to reach me: you'll know!
+- 😄 Pronouns: Rhamseys
+- ⚡ Fun fact: I like to skate. "Do a kick-flip" 
 
 <!---
 rhamseyswork/rhamseyswork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
