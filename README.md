@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RhamseysWork's Work Space
-- 👀 I’m Interested In FIN TECH
+- 👀 I’m Interested In (FIN TECH)
 - 🌱 I’m Currently Learning How To Teach AI To Elementary Students
 - 💞️ I’m Looking To Collaborate on OC Pace Setters
 - 📫 How To Reach Me: You'll Know!
