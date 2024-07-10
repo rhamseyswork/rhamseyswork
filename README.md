@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhamseyswork
+- 👋 Hi, I’m @RhamseysWork
 - 👀 I’m Interested In FIN TECH
 - 🌱 I’m Currently Learning How To Teach AI To Elementary Students
 - 💞️ I’m Looking To Collaborate on OC Pace Setters
