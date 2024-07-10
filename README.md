@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rhamseyswork
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to teach AI to elementary students
-- 💞️ I’m looking to collaborate on OC Pace Setters
-- 📫 How to reach me: you'll know!
+- 👀 I’m Interested In FIN TECH
+- 🌱 I’m Currently Learning How To Teach AI To Elementary Students
+- 💞️ I’m Looking To Collaborate on OC Pace Setters
+- 📫 How To Reach Me: You'll Know!
 - 😄 Pronouns: Rhamseys
-- ⚡ Fun fact: I like to skate. "Do a kick-flip" 
+- ⚡ Fun Fact: I Like To Skate. "Do A Kick-Flip" 
 
 <!---
 rhamseyswork/rhamseyswork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
