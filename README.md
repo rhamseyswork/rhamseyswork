@@ -5,7 +5,7 @@
 - RyanMitchelOffical.com
 - RyanMitchell.MP3
 - SpinningCube4D.org
-- IssacCharter.Software
+- <a href="IssacCharter.Software">IssacCharter.Software</a>
 
 
 <!---
