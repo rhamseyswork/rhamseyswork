@@ -2,9 +2,9 @@
 - I’m Interested In (FIN TECH)
 - I’m Currently Learning How To Teach AI To Elementary Students
 - I’m Looking To Collaborate on  OC Pace Setters, IssacCharter.Software, SpinningCube4D, RyanMitchell.MP3.
-- RyanMitchelOffical.com
-- RyanMitchell.MP3
-- SpinningCube4D.org
+- - <a href="RyanMitchell.MP3">RyanMitchelOffical.com</a>
+- <a href="RyanMitchell.MP3">RyanMitchell.MP3</a>
+- <a href="SpinningCube4D.org">SpinningCube4D.org</a>
 - <a href="IssacCharter.Software">IssacCharter.Software</a>
 
 
