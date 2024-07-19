@@ -1,9 +1,10 @@
 - Hi, I’m @RhamseysWork's Work Space
 - I’m Interested In (FIN TECH)
-- I’m Currently Learning How To Teach AI To Elementary Students
-- I’m Looking To Collaborate on  OC Pace Setters, IssacCharter.Software, SpinningCube4D
+- I am currently start programing in Ai?
+- I’m Looking To Collaborate on  OC Pace Setters, SpinningCube4D
 - <a href="https://SpinningCube4D.org">SpinningCube4D.org</a>
-- <a href="https://IssacCharter.Software">IssacCharter.Software</a>
+- <OCPaceSetter.com>
+
 
 I want to work on Application and work with the Open Source Compunity To Collabertate.
 
