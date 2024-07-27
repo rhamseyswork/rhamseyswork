@@ -1,6 +1,6 @@
 - Hi, I’m @RhamseysWork's Work Space
 - I’m Interested In (FIN TECH)
-- I am currently start programing in Ai?
+- I am currently learning to program Ai and all its fetures?
 - I’m Looking To Collaborate on  OC Pace Setters, SpinningCube4D
 - <a href="https://SpinningCube4D.org">SpinningCube4D.org</a>
 - <OCPaceSetter.com>
